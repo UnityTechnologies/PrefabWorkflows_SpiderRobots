@@ -1,5 +1,7 @@
-# Prefab Workflows - Spider Robots
-**Disclaimer: This Project Is Only Compatible With The Public Prefab Build**
+# Prefab Workflows - Spider Robots Project
+**Disclaimer: This Project Is Only Compatible With The Prefab Preview Build**
+
+![Robots-BigScreenshot.png](https://i.imgur.com/0XImhCS.jpg)
 
 **Description**
 
@@ -15,4 +17,5 @@ The project demonstrates:
 **Contact**
 
 Project created by Nikoline Høgh (R&D) and Andy Touch (Evangelism Content) at Unity Technologies
+
 If you have any issues and feedback on the project; please contact Andy by email: andyt[at]unity3d.com
