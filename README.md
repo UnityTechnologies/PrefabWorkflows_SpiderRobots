@@ -5,7 +5,7 @@
 
 **Description**
 
-This Unity Project demonstrates the new Prefab Workflows available in a Preview Build at: [Link Here]
+This Unity Project demonstrates the new Prefab Workflows available in a Preview Build at: https://unity3d.com/prefabs
 
 The features are targetted for production-ready release in Unity 2018.3.
 
