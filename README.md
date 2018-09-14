@@ -1,13 +1,13 @@
 # Prefab Workflows - Spider Robots Project
-**Disclaimer: This Project Is Only Compatible With The Prefab Preview Build**
 
 ![Robots-BigScreenshot.png](https://i.imgur.com/0XImhCS.jpg)
 
 **Description**
 
-This Unity Project demonstrates the new Prefab Workflows available in a Preview Build at: https://unity3d.com/prefabs
+This Unity Project demonstrates the new Prefab Workflows available in Unity 2018.3.
+Currently, the project is on version 2018.3.0b1.
 
-The features are targetted for production-ready release in Unity 2018.3.
+For more information on the new workflows: https://unity3d.com/prefabs
 
 The project demonstrates:
 - Prefab Mode (With Auto-Save and New Editing Features)
