@@ -3,15 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+[RequireComponent(typeof(NavMeshAgent))]
 public class BotPatrolBehaviour : MonoBehaviour {
 
-	public NavMeshAgent agent;
+	private NavMeshAgent agent;
 	private Transform[] waypoints;
 	private int currentWaypointInt;
 
 
 	void Start()
 	{	
+		agent = GetComponent<NavMeshAgent>();
 		GetWaypoints();
 	}
 
